@@ -4,7 +4,7 @@
 main() {
 	setlocale(LC_ALL, "");
 	int lula=0, dilma=0, bolsonaro=0, cont, votos=0, numeleitores;
-	printf("Digite o número total de eleitores: ");
+	printf("Digite o nï¿½mero total de eleitores: ");
 	scanf("%d", &numeleitores);
 	while (votos<numeleitores) {
 	printf("Para Lula digite:1 | Para Dilma digite:2 | Para Bolsonaro digite:3\n" );
